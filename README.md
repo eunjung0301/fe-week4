@@ -81,3 +81,4 @@ https://user-images.githubusercontent.com/77886826/167910647-88da0576-8467-4b1b-
 # 과제 인증샷 ~~~
 
 <img src="https://user-images.githubusercontent.com/102943250/169687867-4e96bc8a-c678-4e53-9441-7e4afa1fda04.mp4">
+- 누르면 나오긴하니 깨진 아이콘을 꼭 눌러볼것
