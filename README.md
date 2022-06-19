@@ -1,19 +1,5 @@
 # 멋쟁이 사자처럼 10기 FE 4주차 과제 🦁
 
-반갑습니다 여러분!!☺️
-벌써 react의 정말 재밌는! 필수적인 요소인 hooks를 다뤄보는 시간입니다!
-
-# 실습 진행방법
-
-기존의 실습들과 동일하게 진행됩니다
-
-- 이 레포를 fork 한다!
-- fork하여 이동한 자신의 레포에서 깃크라켄을 통해 클론을 받습니다.
-- 클론을 받은 파일을 vs 코드에서 엽니다!
-- vs 코드에서 터미널을 열어서 npm i 후 npm run start 를 입력하면 코드가 실행됩니다!
-
-이번 실습도 2주차와 마찬가지로 3차에 걸쳐서 진행됩니다! 마지막까지 열심히 진행해보시죠 ㅎㅎ
-
 # 실습 1번문제
 
 InputSample 컴포넌트는 name과 nickname을 입력받아서 render시키는 컴포넌트 입니다. 해당 기능을 수행하기 위해 주석이 있는 부분을 채워 기능을 완성시켜 봅시다<br>
@@ -71,14 +57,15 @@ https://user-images.githubusercontent.com/77886826/167910647-88da0576-8467-4b1b-
 - useState를 필수적으로 사용합니다.
 - 마지막 = 버튼을 사용할 때 useEffect를 이용하여 값을 출력시킵니다.
 
-# 제출시 필수 사항
+***
+### 해결방법
+> + 실행코드
+<img src="https://user-images.githubusercontent.com/102943250/174480505-0d10bbef-2528-44a8-833e-40e2c02a4024.jpg" />
+<img src="https://user-images.githubusercontent.com/102943250/174480508-4dd6b3b9-cbe5-4a66-9128-da00aeee484a.jpg" />
+<img src="https://user-images.githubusercontent.com/102943250/174480513-6383f391-c5c3-4eac-b028-0c2c1f570f7f.jpg" />
+<img src="https://user-images.githubusercontent.com/102943250/174480519-fe6fa8fa-65dc-4c97-abae-caa2eb0849a0.jpg" />
+<img src="https://user-images.githubusercontent.com/102943250/174480523-4ab58be5-47ed-407e-8ccb-85f4be3d0d53.jpg" />
 
-- 실습 모든 문제를 포함합니다.
-- 실습의 각 문제마다 스크린샷을 포함합니다.
-- pr 의 제목은 | [내이름] 제목 |으로 합니다.
-  ex) [이성인] 리엑트는 너무 재밋어!
-
-# 과제 인증샷 ~~~
-
++ 동영상 실행결과
 <img src="https://user-images.githubusercontent.com/102943250/169687867-4e96bc8a-c678-4e53-9441-7e4afa1fda04.mp4">
 - 누르면 나오긴하니 깨진 아이콘을 꼭 눌러볼것
