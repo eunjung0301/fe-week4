@@ -22,9 +22,13 @@ https://user-images.githubusercontent.com/77886826/167908055-e3287bcf-5176-4188-
 <br>
 +) 해당 페이지에서 useState()를 한번만 사용하신다면 선착순!! 제가 커피한잔 사드리겠습니다!
 
-### 제출방법
+***
+### 해결방법
+> 1. 실행코드
+<img src="https://user-images.githubusercontent.com/102943250/174481530-79e756b4-dd4c-48c5-bbeb-0f8bc42a0d94.jpg" />
+<img src="https://user-images.githubusercontent.com/102943250/174481539-a5c6e72d-ae27-4032-9d03-fc23a00f53a5.jpg" />
 
-앞선 과제들과 마찬가지로 pr에 해당문제의 번호와 동영상을 적어주세요!
+***
 
 # 실습 2번문제
 
@@ -44,6 +48,12 @@ https://user-images.githubusercontent.com/77886826/167908055-e3287bcf-5176-4188-
 
 - 해당 문제는 useState 와 useEffect를 모두 사용해야 합니다.
 - useEffect의 deps에 해당하는 부분에서 eslint를 무시하는 방법은 사용하면 안됩니다.
+
+***
+### 해결방법
+> 1. 실행코드 
+<img src="https://user-images.githubusercontent.com/102943250/174481546-4ada2dc8-a008-463e-bc51-0e0093ed1f6a.jpg" />
+> + 오류는 해결되었으나, 초기값이 2로 설정되어있는 부분에 대한 해결에 대한 공부가 더 필요하다.
 
 # 실습 3번문제
 
